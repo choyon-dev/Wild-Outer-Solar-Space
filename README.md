@@ -2,4 +2,4 @@
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and contributing to the open-source community.
 
 **Get in Touch**
-Feel free to connect with me on [LinkedIn]([your LinkedIn profile link](https://www.linkedin.com/in/fajle-rabbi-choyon-190a3a201/)) or follow me on [Instagram](https://www.instagram.com/choyon_dev/). You can also check out my website at https://choyon.pro
+Feel free to connect with me on [LinkedIn]([your LinkedIn profile link](https://www.linkedin.com/in/fajle-rabbi-choyon-190a3a201/) or follow me on [Instagram](https://www.instagram.com/choyon_dev/). You can also check out my website at https://choyon.pro
